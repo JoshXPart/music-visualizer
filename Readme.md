@@ -28,7 +28,7 @@ Bigger Resolution
 
 ## DEMO
 ## Demo
-<video src="demo.mp4" controls autoplay muted>
+<video src="demoVideo.mp4" controls autoplay muted>
 Your browser does not support the video tag.
 </video>
 
