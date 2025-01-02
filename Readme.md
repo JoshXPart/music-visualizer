@@ -24,3 +24,7 @@ Future Features:
 Add frequency-based animations for richer visuals.
 Introduce customizable visual modes.
 Implement streaming audio support.
+Bigger Resolution
+
+## DEMO
+![Visualizer Demo](demoVideo.mp4)
