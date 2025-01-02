@@ -27,4 +27,9 @@ Implement streaming audio support.
 Bigger Resolution
 
 ## DEMO
+## Demo
+<video src="demo.mp4" controls autoplay muted>
+Your browser does not support the video tag.
+</video>
+
 ![Visualizer Demo](demoVideo.mp4)
